@@ -13,6 +13,7 @@ Before you run this code, you must make sure you have the following libraries/de
 To install these all on Python3, run the following command in your command prompt/terminal:
 pip3 install SpeechRecognition Flask google-api-python-client cryptography
 
+You must also have the Raspberry Pi hooked up to a robot developed by me.
 HOW TO RUN:
 
 Now that you have all of the prequisites/dependencies installed, you should be able to run this program without any issues. Just run "main.py" and go to the IP address in the first line outputed from the script (you should probably use the IDLE for this). Remember to copy the "https://", otherwise you will get an error. READ THE NEXT SECTION BEFORE OPENING THE PAGE!
