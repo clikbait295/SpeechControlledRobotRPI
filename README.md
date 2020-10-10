@@ -1,4 +1,4 @@
-# SpeechControlledRobotRPI
+# Speech Controlled Robot - Raspberry Pi
 Created for MakeSPP 2020!
 This Repo is for the version of my software which must run with a Raspberry Pi connected to a simple 2 wheeled robot I built.
 
