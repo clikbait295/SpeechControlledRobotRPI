@@ -19,7 +19,7 @@ You must also have the Raspberry Pi hooked up to a robot developed by me.
 
 Now that you have all of the prequisites/dependencies installed, you should be able to run this program without any issues. Just run "main.py" and go to the IP address in the first line outputed from the script (you should probably use the IDLE for this). Remember to copy the "https://", otherwise you will get an error. READ THE NEXT SECTION BEFORE OPENING THE PAGE!
 
-**IMPORTANT: **
+**IMPORTANT:**
 
 WHEN YOU FIRST CONNECT TO THE WEBSERVER, YOU WILL GET A "Your connection is not private" MESSAGE FROM THE BROWSER. PLEASE DISREGARD THIS MESSAGE, IT IS APPEARING BECAUSE I AM USING AN UNVERIFIED CERTIFICATE TO GET HTTPS ON MY SERVER, WHICH ALLOWS ME TO ACCESS THE USER'S MICROPHONE. To continue to the website, click on "Advanced" and then click "Continue". YOU ARE NOT GETTING HACKED!
 
