@@ -42,7 +42,7 @@ WaitTime = 0.002
 # Initialise variables
 StepCounter = 0
 timeout = time.time() + int(sys.argv[1])
-print(datetime.datetime.now())
+
 # Start main lpop
 while True:
   if time.time() > timeout:
@@ -71,6 +71,6 @@ while True:
   # Wait before moving on
   time.sleep(WaitTime)
 
-print(datetime.datetime.now())
+
 GPIO.cleanup()
 exit()
