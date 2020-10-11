@@ -68,9 +68,5 @@ while True:
   # Wait before moving on
   time.sleep(WaitTime)
 
-##    print("Ok, shuting down script....")
-##    time.sleep(2)
-##    GPIO.cleanup()
-##    exit()
 GPIO.cleanup()
 exit()
